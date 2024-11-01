@@ -1,13 +1,12 @@
-**Project Business Statistics: E-news Express**
-Delievered in September 2024
+### Project Business Statistics: E-news Express
+### Delievered in September 2024
 
-Did AB testing of E News Express new vs old landing page customer attractions
+#### Did AB testing of E News Express new vs old landing page customer attractions
 
-**Skills used
-**
+**Skills Used**
 
-*** EDA
-* Statistical Testing:**
+**EDA**
+**Statistical Testing:**
 
 * T-test for mean comparison between two independent samples.
 * Z-test for Proportions to compare conversion rates.
